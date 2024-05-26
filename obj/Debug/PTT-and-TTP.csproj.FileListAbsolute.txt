@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\PngToTXT and TXTtoPNG\PTT-and-TTP\bin\Debug\PTT-and-TTP.dll
+C:\Users\admin\Desktop\PngToTXT and TXTtoPNG\PTT-and-TTP\bin\Debug\PTT-and-TTP.pdb
+C:\Users\admin\Desktop\PngToTXT and TXTtoPNG\PTT-and-TTP\obj\Debug\PTT-and-TTP.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PngToTXT and TXTtoPNG\PTT-and-TTP\obj\Debug\PTT-and-TTP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PngToTXT and TXTtoPNG\PTT-and-TTP\obj\Debug\PTT-and-TTP.dll
+C:\Users\admin\Desktop\PngToTXT and TXTtoPNG\PTT-and-TTP\obj\Debug\PTT-and-TTP.pdb
